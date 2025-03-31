@@ -28,7 +28,7 @@ The Priya Store wants to create an annual sales report for 2023. So that, the ow
 ![Priya data analysis SS](https://github.com/user-attachments/assets/e876a4a2-57e4-40f9-be4c-f97e360af4ff)
 
 ## Project Insight
-- Women are more likely to buy products compared to men (—65X).
+- Women are more likely to buy products compared to men (-65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 - The adult age group (30-49 yrs) is max contributing and buys the most products.
 - The maximam number of products customer orders from Amazon, Flipkart and Myntra channels.
