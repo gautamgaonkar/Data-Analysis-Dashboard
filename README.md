@@ -19,10 +19,11 @@ The Priya Store wants to create an annual sales report for 2023. So that, the ow
 - Dashboard Interaction <a href="https://github.com/gautamgaonkar/Data-Analysis-Dashboard/blob/main/Priya%20data%20analysis%20SS.png">View Dashboard</a>
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
+- Verified data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and applied slicer to make dynamic.
 
 ## Dashboard
+![Priya data analysis SS](https://github.com/user-attachments/assets/e876a4a2-57e4-40f9-be4c-f97e360af4ff)
 
