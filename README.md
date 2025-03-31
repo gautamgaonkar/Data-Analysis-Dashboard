@@ -27,3 +27,15 @@ The Priya Store wants to create an annual sales report for 2023. So that, the ow
 ## Dashboard
 ![Priya data analysis SS](https://github.com/user-attachments/assets/e876a4a2-57e4-40f9-be4c-f97e360af4ff)
 
+## Project Insight
+- Women are more likely to buy products compared to men (—65X).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49 yrs) is max contributing and buys the most products.
+- The maximam number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
+  
+## Final Conclusion:
+To improve the sales of Priya Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This
+demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and
+personalized to capture their attention.
+
